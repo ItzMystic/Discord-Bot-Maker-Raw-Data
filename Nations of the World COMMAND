@@ -1,0 +1,1728 @@
+{
+  "name": "!PleaseDontUseThisCommand",
+  "permissions": "ADMINISTRATOR",
+  "restriction": "1",
+  "_id": "ErqBn",
+  "actions": [
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "You really fucked up....",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Starting the most annoying command ever..",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "United states",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Canada",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Mexico",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Panama",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Haiti",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Jamaica",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Peru",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Republic Domainican",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Cuba",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Caribbean",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Greenland",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "El Salvador too",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Puerto Rico",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Columbia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Venezuela",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Guyana and still,",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Guatemala",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Bolivia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Then Argentina",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Ecuador",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Chile",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Brazil",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Costa Rica",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Belize",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Nicaragua",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Bermuda",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Bahamas",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Tobago",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "San Juan",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Paraguay",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Uruguay",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Surinam",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And French Guiana",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Barbados",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Guam",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "**Norway**",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Sweden",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Iceland",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Finland",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Germany Now want peace",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Switzerland",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Austria",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Czechoslovakia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Italy",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Turkey",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Greece",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Poland",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Romania",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Scotland",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Albania",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Ireland",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Russia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Oman",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Bulgaria",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Saudi Arabia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Hungary",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Cyprus",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Iraq",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Iran",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "There's Syria",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Lebanon",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Israel",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Jordan",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Both Yemen's",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Kuwait",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Bahrain",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "The Netherlands",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Luxembourg",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Belgium",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Portugal",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "France",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "England",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Denmark",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Spain",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "India",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Pakistan",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Burma",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Afghanistan",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Thailand",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Nepal",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Bhutan",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Kampuchea",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Malaysia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Then Bangladesh Asia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Korea",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Japan",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Mongolia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Laos",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Tibet",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Indonesia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "The Philippine Islands",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Taiwan",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Sri Lanka",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "New Guinea",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Sumatra",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "New Zealand",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Then Borneo",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Vietnam",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Tunisia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Morocoo",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Uganda",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Angola",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Zimbabwe",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Djibouti",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Botswana",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Mozambique",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Zambia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Swaziland",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Gambia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Guinea",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Algeria",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Ghana",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Burundi",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Lesotho",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Malawi",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Togo",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "The Spanish Sahara is gone",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Niger",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Nigeria",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Chad",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Liberia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Egypt",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Benin",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Gabon",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Tanzania",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Somalia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Kenya",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Mali",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Sierra Leone",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Algiers",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Dahomey",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Namibia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Senegal",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Libya",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Cameroon",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Congo",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Zaire",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Ethiopia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Guinea-Bissau",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Madagascar",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Rwanda",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Mahore",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Cayman",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Hong Kong",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Abu Dhabi",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Qatar",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Yugoslavia...",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Crete",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Mauritania",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Then Transylvania",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Monaco",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Liechtenstein",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "And Palestine",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Fiji",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Australia",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Sudan",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "**:)**",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    }
+  ]
+}
