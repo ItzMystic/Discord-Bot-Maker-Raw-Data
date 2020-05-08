@@ -13,7 +13,7 @@
       "comparison": "2",
       "value": "1",
       "iftrue": "2",
-      "iftrueVal": "5",
+      "iftrueVal": "7",
       "iffalse": "0",
       "iffalseVal": "",
       "name": "Check Parameters"
@@ -22,11 +22,21 @@
       "channel": "0",
       "varName": "",
       "message": "${member} You have used this command wrong\nTo use the command correctly please use:\n**!Report {user} {reason}**",
-      "storage": "0",
-      "varName2": "",
+      "storage": "1",
+      "varName2": "deletethis9173",
       "iffalse": "0",
       "iffalseVal": "",
       "name": "Send Message"
+    },
+    {
+      "time": "10",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "deletethis9173",
+      "name": "Delete Message"
     },
     {
       "name": "End Action Sequence"
@@ -93,33 +103,7 @@
       "name": "Send Embed Message"
     },
     {
-      "storage": "1",
-      "varName": "stored.embed",
-      "emoji": "4",
-      "varName2": "❗",
-      "varName3": "",
-      "name": "Add Reaction"
-    },
-    {
-      "storage": "1",
-      "varName": "stored.embed",
-      "emoji": "4",
-      "varName2": "❓",
-      "varName3": "",
-      "name": "Add Reaction"
-    },
-    {
       "name": "End Action Sequence"
-    },
-    {
-      "channel": "0",
-      "varName": "",
-      "message": "To use this command correctly, please do the following!\n!Suggest {Your suggestion}",
-      "storage": "0",
-      "varName2": "",
-      "iffalse": "0",
-      "iffalseVal": "",
-      "name": "Send Message"
     }
   ],
   "_id": "zVMPn"
