@@ -1,0 +1,126 @@
+{
+  "name": "!report",
+  "permissions": "NONE",
+  "restriction": "1",
+  "actions": [
+    {
+      "storage": "0",
+      "varName": "",
+      "name": "Delete Message"
+    },
+    {
+      "condition": "0",
+      "comparison": "2",
+      "value": "1",
+      "iftrue": "2",
+      "iftrueVal": "5",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Check Parameters"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "${member} You have used this command wrong\nTo use the command correctly please use:\n**!Report {user} {reason}**",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "name": "End Action Sequence"
+    },
+    {
+      "info": "0",
+      "infoIndex": "1",
+      "storage": "1",
+      "varName": "ReportName",
+      "name": "Store Command Params"
+    },
+    {
+      "info": "1",
+      "infoIndex": "2",
+      "storage": "1",
+      "varName": "reason",
+      "name": "Store Command Params"
+    },
+    {
+      "info": "1",
+      "find": "reports",
+      "storage": "1",
+      "varName": "found.channel",
+      "name": "Find Channel"
+    },
+    {
+      "title": "Player Report!",
+      "author": "",
+      "color": "",
+      "url": "",
+      "authorIcon": "",
+      "authorUrl": "",
+      "imageUrl": "",
+      "thumbUrl": "",
+      "timestamp": "true",
+      "debug": "false",
+      "text": "",
+      "year": "",
+      "month": "",
+      "day": "",
+      "hour": "",
+      "minute": "",
+      "second": "",
+      "storage": "1",
+      "varName": "anon.embed.1",
+      "name": "Create Embed Message"
+    },
+    {
+      "storage": "1",
+      "varName": "anon.embed.1",
+      "message": "**${member} Reported:** ${tempVars(\"ReportName\")}\n\n**Reason:** ${tempVars(\"reason\")}",
+      "name": "Set Embed Description"
+    },
+    {
+      "storage": "1",
+      "varName": "anon.embed.1",
+      "channel": "5",
+      "varName2": "found.channel",
+      "storage3": "1",
+      "varName3": "stored.embed",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "messageContent": "",
+      "name": "Send Embed Message"
+    },
+    {
+      "storage": "1",
+      "varName": "stored.embed",
+      "emoji": "4",
+      "varName2": "❗",
+      "varName3": "",
+      "name": "Add Reaction"
+    },
+    {
+      "storage": "1",
+      "varName": "stored.embed",
+      "emoji": "4",
+      "varName2": "❓",
+      "varName3": "",
+      "name": "Add Reaction"
+    },
+    {
+      "name": "End Action Sequence"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "To use this command correctly, please do the following!\n!Suggest {Your suggestion}",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    }
+  ],
+  "_id": "zVMPn"
+}
