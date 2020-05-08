@@ -1,0 +1,47 @@
+{
+  "name": "!setupReports",
+  "permissions": "ADMINISTRATOR",
+  "restriction": "2",
+  "actions": [
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Setting up reports channel...",
+      "storage": "1",
+      "varName2": "delete.this.1",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "3",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "delete.this.1",
+      "name": "Delete Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "Successfully set up reports channel",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "channelName": "reports",
+      "categoryID": "",
+      "topic": "This is where suggestions will be posted",
+      "position": "",
+      "storage": "1",
+      "varName": "suggestions.channel",
+      "name": "Create Text Channel"
+    }
+  ],
+  "_id": "dTNeG"
+}
