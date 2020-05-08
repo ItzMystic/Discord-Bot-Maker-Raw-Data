@@ -13,7 +13,7 @@
       "comparison": "2",
       "value": "0",
       "iftrue": "2",
-      "iftrueVal": "5",
+      "iftrueVal": "7",
       "iffalse": "0",
       "iffalseVal": "",
       "name": "Check Parameters"
@@ -21,12 +21,22 @@
     {
       "channel": "0",
       "varName": "",
-      "message": "${member} You've used this command wrong!\nTo use this command correctly please do\n**!Purge {amount}**",
-      "storage": "0",
-      "varName2": "",
+      "message": "${member} You have used this command wrong!\nTo use this command correctly please do\n**!Purge {amount}**",
+      "storage": "1",
+      "varName2": "deletethis8274",
       "iffalse": "0",
       "iffalseVal": "",
       "name": "Send Message"
+    },
+    {
+      "time": "5",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "deletethis8274",
+      "name": "Delete Message"
     },
     {
       "name": "End Action Sequence"
