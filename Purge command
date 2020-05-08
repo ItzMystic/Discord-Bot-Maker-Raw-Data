@@ -1,0 +1,69 @@
+{
+  "name": "!purge",
+  "permissions": "MANAGE_MESSAGES",
+  "restriction": "1",
+  "actions": [
+    {
+      "storage": "0",
+      "varName": "",
+      "name": "Delete Message"
+    },
+    {
+      "condition": "0",
+      "comparison": "2",
+      "value": "0",
+      "iftrue": "2",
+      "iftrueVal": "5",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Check Parameters"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "${member} You've used this command wrong!\nTo use this command correctly please do\n**!Purge {amount}**",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "name": "End Action Sequence"
+    },
+    {
+      "info": "0",
+      "infoIndex": "1",
+      "storage": "1",
+      "varName": "purgeamount",
+      "name": "Store Command Params"
+    },
+    {
+      "channel": "0",
+      "count": "${tempVars(\"purgeamount\")}",
+      "condition": "0",
+      "custom": "",
+      "varName": "",
+      "name": "Delete Bulk Messages"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "You have removed ${tempVars(\"purgeamount\")} messages",
+      "storage": "1",
+      "varName2": "Deletethis",
+      "name": "Send Message"
+    },
+    {
+      "time": "3",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "Deletethis",
+      "name": "Delete Message"
+    }
+  ],
+  "_id": "ObWyb"
+}
